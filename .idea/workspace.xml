@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3a245d7-971a-42f7-93ff-e3305f96af1c" name="Default Changelist" comment="" />
+    <list default="true" id="e3a245d7-971a-42f7-93ff-e3305f96af1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inventory/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inventory/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inventory/Latte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inventory/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/java/TestCoffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CoffeeMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CoffeeMachine.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +22,18 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZF7WdszgjxVGp35tq40wgZ6irq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,13 +41,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Productivity\IdeaProjects\CoffeeMachine\src\main" />
+      <recent name="C:\Users\Productivity\IdeaProjects\CoffeeMachine\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Espresso">
     <configuration name="CoffeeMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CoffeeMachine" />
       <module name="CoffeeMachine.main" />
@@ -34,8 +63,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Espresso" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Espresso" />
+      <module name="src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Espresso" />
         <item itemvalue="Application.CoffeeMachine" />
       </list>
     </recent_temporary>
@@ -59,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584423020040</updated>
-      <workItem from="1584423021425" duration="23000" />
+      <workItem from="1584423021425" duration="2437000" />
     </task>
     <servers />
   </component>
@@ -68,5 +105,33 @@
       <screen x="0" y="0" width="1825" height="1027" />
     </state>
     <state x="503" y="171" key="#Project_Structure/0.0.1825.1027@0.0.1825.1027" timestamp="1584423066449" />
+    <state x="716" y="197" key="#com.intellij.ide.util.MemberChooser" timestamp="1584425360971">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state x="716" y="197" key="#com.intellij.ide.util.MemberChooser/0.0.1825.1027@0.0.1825.1027" timestamp="1584425360971" />
+    <state x="690" y="254" key="FileChooserDialogImpl" timestamp="1584423423342">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state x="690" y="254" key="FileChooserDialogImpl/0.0.1825.1027@0.0.1825.1027" timestamp="1584423423342" />
+    <state width="1779" height="276" key="GridCell.Tab.0.bottom" timestamp="1584425459935">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="1779" height="276" key="GridCell.Tab.0.bottom/0.0.1825.1027@0.0.1825.1027" timestamp="1584425459935" />
+    <state width="1779" height="276" key="GridCell.Tab.0.center" timestamp="1584425459934">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="1779" height="276" key="GridCell.Tab.0.center/0.0.1825.1027@0.0.1825.1027" timestamp="1584425459934" />
+    <state width="1779" height="276" key="GridCell.Tab.0.left" timestamp="1584425459934">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="1779" height="276" key="GridCell.Tab.0.left/0.0.1825.1027@0.0.1825.1027" timestamp="1584425459934" />
+    <state width="1779" height="276" key="GridCell.Tab.0.right" timestamp="1584425459934">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="1779" height="276" key="GridCell.Tab.0.right/0.0.1825.1027@0.0.1825.1027" timestamp="1584425459934" />
+    <state x="588" y="125" key="new project wizard" timestamp="1584423443012">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state x="588" y="125" key="new project wizard/0.0.1825.1027@0.0.1825.1027" timestamp="1584423443012" />
   </component>
 </project>
